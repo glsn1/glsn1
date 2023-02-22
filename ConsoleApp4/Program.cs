@@ -445,7 +445,8 @@ namespace ConsoleApp4
 
 
             */
-            //girilen 10 sayıdan
+            //girilen 10 notun kaç tanesi 50 ve altıdır
+            // açıklama satırı
 
             int sayi, sayac=0;
         
